@@ -4,7 +4,7 @@
 
 - *Run script with python*
 
-        python3 imgconverter.py -f [format type (png/jpg)] -i [image] [-o save the image with a new name] / [-s path save]
+        python3 imgconverter.py -f [format type (png/jpg)] -i [image] [-o save the image with a new name] [-s path save]
 
 ### or
 
@@ -14,7 +14,7 @@
 
 - *Run script*
 
-        ./imgconverter.py -f [format type (png/jpg)] -i [image] [-o save the image with a new name] / [-s path save]
+        ./imgconverter.py -f [format type (png/jpg)] -i [image] [-o save the image with a new name] [-s path save]
 
 - *for more help use*
 
